@@ -1,6 +1,6 @@
 # CARA | Static E-commerce Website
 
-[![View Site](https://img.shields.io/badge/View%20Site-Online-green?style=for-the-badge)](https://sach01in.github.io/E-commerce-static-website/)
+[![View Site](https://img.shields.io/badge/View%20Site-Online-green?style=for-the-badge)](https://sach01in.github.io/CARA_static_ecommerce_website/)
 
 Click the **Visit Site** button above to explore the live e-commerce demo.  
 _On click, you will be redirected to the website._
