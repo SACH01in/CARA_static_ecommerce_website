@@ -1,11 +1,4 @@
-# E-commerce Static Website | [View Site]([https://your-demo-site-link.com](https://sach01in.github.io/E-commerce-static-website/))
-
-[![View Site](https://img.shields.io/badge/View%20Site-Online-green?style=for-the-badge)]([https://your-deployment-url.com](https://your-demo-site-link.com](https://sach01in.github.io/E-commerce-static-website/)))
-
-[**Visit Site**](https://sach01in.github.io/E-commerce-static-website/){: .btn .btn-primary }
-
-Click the **Visit Site** button above to explore the live e-commerce demo.  
-_On click, you will be redirected to the website._
+# E-commerce Static Website | [![visit site](https://media.istockphoto.com/id/1160281298/vector/external-link-icon-arrow-showing-leaving-the-app-to-visit-an-external-website.jpg?s=612x612&w=0&k=20&c=nQuIvbt64rAAse8vMf0K41Mj_sN7hWgDLS1Zfv5GQcE=)](https://sach01in.github.io/E-commerce-static-website/)
 
 This project is a static e-commerce website built to showcase products and provide a simple shopping experience. It is designed for learning and demonstration purposes.
 
