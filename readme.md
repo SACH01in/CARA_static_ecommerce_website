@@ -1,4 +1,6 @@
-# E-commerce Static Website
+# E-commerce Static Website | [View Site]([https://your-demo-site-link.com](https://sach01in.github.io/E-commerce-static-website/))
+
+[![View Site](https://img.shields.io/badge/View%20Site-Online-green?style=for-the-badge)]([https://your-deployment-url.com](https://your-demo-site-link.com](https://sach01in.github.io/E-commerce-static-website/)))
 
 [**Visit Site**](https://sach01in.github.io/E-commerce-static-website/){: .btn .btn-primary }
 
