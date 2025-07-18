@@ -1,5 +1,10 @@
 # E-commerce Static Website
 
+[**Visit Site**](https://sach01in.github.io/E-commerce-static-website/){: .btn .btn-primary }
+
+Click the **Visit Site** button above to explore the live e-commerce demo.  
+_On click, you will be redirected to the website._
+
 This project is a static e-commerce website built to showcase products and provide a simple shopping experience. It is designed for learning and demonstration purposes.
 
 ## Features
