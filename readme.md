@@ -1,4 +1,4 @@
-# E-commerce Static Website
+# E-commerce Static Website | [View Site]([https://your-demo-site-link.com](https://sach01in.github.io/E-commerce-static-website/))
 
 This project is a static e-commerce website built to showcase products and provide a simple shopping experience. It is designed for learning and demonstration purposes.
 
