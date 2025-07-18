@@ -19,7 +19,7 @@ This project is a static e-commerce website built to showcase products and provi
 
 ![Home Page Screenshot](./img/website%20pages/home.png)
 
-*Above: Example of the home page layout with featured products and navigation.*
+*Above: Example of the home page layout with a model image and some texts.*
 
 ### Product Listing Page (`products.html`)
 - Shows all available products.
@@ -27,7 +27,7 @@ This project is a static e-commerce website built to showcase products and provi
 
 ![Product listing Screenshot](./img/website%20pages/product%20listing%20page.png)
 
-*Above: Example of the product listing page layout with featured products and navigation.*
+*Above: Example of the product listing page layout with featured products with image and some details also having a shop button.*
 
 ### Product Detail Page (`product-detail.html`)
 - Displays detailed information about a selected product.
@@ -35,24 +35,44 @@ This project is a static e-commerce website built to showcase products and provi
 
 ![Product Details Page Screenshot](./img/website%20pages/single%20product.png)
 
-*Above: Example of the product details page layout with featured products and navigation.*
+*Above: Example of the product details page layout with selcted product images and entire details of that product.*
 
 ### Shopping Cart Page (`cart.html`)
 - Lists products added to the cart.
 - Allows users to update quantities or remove items.
 - Proceeds to checkout.
 
-![Shopping Cart Page Screenshot](./img/website%20pages/home.png)
+![Shopping Cart Page Screenshot](./img/website%20pages/shhoping%20card%20page.png)
 
-*Above: Example of the shopping cart page layout with featured products and navigation.*
+*Above: Example of the shopping cart page layout with table having product quantity, price and amount.*
 
-### Checkout Page (`checkout.html`)
-- Collects user information for order processing.
-- Displays order summary.
+### About Us Page (`cart.html`)
+- a simple about us page tells about company deatils.
+- contains a photo of company and some text.
 
-![Check Out Page Screenshot](./img/website%20pages/home.png)
+![About Us Page Screenshot](./img/website%20pages/about%20us%20page.png)
 
-*Above: Example of the check-out page layout with featured products and navigation.*
+*Above: Example of the About Us page layout.*
+
+### Banner section (`index.html`)
+- displaying offers and banners for products.
+- Displays Categories.
+
+![Check Out Page Screenshot](./img/website%20pages/banners.png)
+
+*Above: Example of the banner section on home page.*
+
+### Footer section (`every page`)
+- displaying logo of `CARA`.
+- Displays Categories.
+- Displays list of pages which are links.
+- availability of WebApp.
+- showing all type of payment integrations.
+- shows copyright reserved.
+
+![Check Out Page Screenshot](./img/website%20pages/footer.png)
+
+*Above: Example of the banner section on home page.*
 
 ### JavaScript Functions
 - `addToCart(productId)`: Adds a product to the cart.
