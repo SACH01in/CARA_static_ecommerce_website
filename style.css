@@ -1442,6 +1442,7 @@ footer .copyright{
   .cart-add .coupon input{
     width: 70%;
     margin-right: 0;
+    margin-bottom: 10px;
     border-radius: 4px;
   }
   .cart-add .sub-total{
@@ -1453,6 +1454,7 @@ footer .copyright{
 
 
 /* cart styling */
+
 
 
 
